@@ -6,4 +6,4 @@
 
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Mike.Horn.png" width="300" />
 
-<script src="https://root-me-badge.cloud.duboc.xyz/storage_clients/6facd1db2f98a3311d79af6f1f8270c0/badge.js"></script>
+<img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/6facd1db2f98a3311d79af6f1f8270c0/static_badge_light.png" />
