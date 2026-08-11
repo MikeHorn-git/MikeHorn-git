@@ -9,7 +9,7 @@
     action-validator.enable = true;
     actionlint.enable = true;
     mdformat.enable = true;
-    nixfmt-classic.enable = true;
+    nixfmt.enable = true;
     trim-trailing-whitespace.enable = true;
   };
 
